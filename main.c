@@ -10,7 +10,6 @@ int main()
     
     printf("%.*f\n", B, A);
 
-}
 
   
   return 0;
